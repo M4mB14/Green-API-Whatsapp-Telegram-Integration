@@ -68,14 +68,13 @@ curl -X POST   https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook -d "<
 
 
 Итоговая структура проекта 
-      ```
+
       ├── package.json
       ├── .env
       ├── src
       │   ├── transformer.ts
       │   └── webhook.ts
       └── tsconfig.json
-      ```
 
 Описание компанентов:
   transformer.ts - файл, который преобразовывает сообщения из WhatsApp формата в Telegram 
