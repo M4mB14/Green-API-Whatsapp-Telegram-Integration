@@ -52,12 +52,12 @@ TELEGRAM_GROUP_CHAT_ID=
 APP_URL=
 PORT=
 ```
-  1) GREENAPI_INSTANCE_ID и GREENAPI_API_TOKEN возьмите в вашем личном кабинете на сайте https://green-api.com/
-  2) GREENAPI_PHONE_NUMBER - номер телефона или id группы куда и от куда будут пересылатся сообщения 
-  3) TELEGRAM_BOT_TOKEN вижно сразу при создании бота
-  4) TELEGRAM_GROUP_CHAT_ID - можно посмотреть в web версии telegram
-  5) APP_URL - Сюда вставляем webhook
-  6) PORT - ставим любой вам удобный порт 
+      1) GREENAPI_INSTANCE_ID и GREENAPI_API_TOKEN возьмите в вашем личном кабинете на сайте https://green-api.com/
+      2) GREENAPI_PHONE_NUMBER - номер телефона или id группы куда и от куда будут пересылатся сообщения 
+      3) TELEGRAM_BOT_TOKEN вижно сразу при создании бота
+      4) TELEGRAM_GROUP_CHAT_ID - можно посмотреть в web версии telegram
+      5) APP_URL - Сюда вставляем webhook
+      6) PORT - ставим любой вам удобный порт 
 
 7) Ставим наш webhook в настройках в личном кабинете в GreanAPI
 8) Нужно добавить бота в группу в telegramm и дать ему права администратора
